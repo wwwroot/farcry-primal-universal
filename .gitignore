@@ -1,0 +1,9 @@
+/target/
+**/*.rs.bk
+*.pdb
+*.exp
+*.lib
+
+# OS generated files
+.DS_Store
+Thumbs.db
